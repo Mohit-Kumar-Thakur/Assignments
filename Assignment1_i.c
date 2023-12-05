@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    // Declare a variable to store the input number
+    // Declareing a variable to store the input number
     int number;
 
-    // Prompt the user to enter a number
+    // Prompting the user to enter a number
     printf("Enter a number: ");
     scanf("%d", &number);
 
